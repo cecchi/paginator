@@ -2,10 +2,12 @@
   "name": "paginator",
   "version": "0.0.0",
   "description": "Auto pagination toolkit",
-  "main": "index.js",
+  "main": "spider.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cecchi MacNaughton <cecchi@linkedin.com>",
-  "license": "ISC"
+  "dependencies": {
+    "node-uuid": "^1.4.1"
+  }
 }

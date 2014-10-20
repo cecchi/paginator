@@ -6,6 +6,6 @@ Getting Started
 
 #### Dependencies
 You'll need to install CasperJS globally before anything. Installation is as simple as:
-```js
-npm install -g casperjs
+```sh
+$ npm install -g casperjs
 ```
