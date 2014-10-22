@@ -1,5 +1,5 @@
-Paginator
-=========
+Web Walker
+==========
 
 Getting Started
 ---------------
