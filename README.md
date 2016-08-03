@@ -1,6 +1,8 @@
 Web Walker
 ==========
 
+A Markovian ("memoryless") process for navigating complex websites linearly in a headless browser.
+
 Getting Started
 ---------------
 
